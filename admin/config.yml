@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: jaehun-chung/jaehun-chung.github.io # ◀ 본인 깃허브 아이디로 수정!
-  branch: master
+  repo: jaehun-chung/jaehun-chung.github.io
+  branch: master # 질문자님 블로그의 기본 브랜치 이름입니다.
+
 media_folder: "assets/images"
 public_folder: "/assets/images"
 
